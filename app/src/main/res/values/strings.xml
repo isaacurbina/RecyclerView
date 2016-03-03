@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music to Get</string>
+    <string name="song_title">Song Name</string>
+    <string name="song_artist">Artist</string>
+    <string name="btn_save">Save</string>
+    <string name="title_hint">Title</string>
+    <string name="artist_hint">Artist</string>
+</resources>
